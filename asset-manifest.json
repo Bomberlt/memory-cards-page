@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memory-cards-page/static/css/main.68df9c36.css",
+    "main.js": "/memory-cards-page/static/js/main.7d66ad51.js",
+    "static/js/787.efc4d965.chunk.js": "/memory-cards-page/static/js/787.efc4d965.chunk.js",
+    "index.html": "/memory-cards-page/index.html",
+    "main.68df9c36.css.map": "/memory-cards-page/static/css/main.68df9c36.css.map",
+    "main.7d66ad51.js.map": "/memory-cards-page/static/js/main.7d66ad51.js.map",
+    "787.efc4d965.chunk.js.map": "/memory-cards-page/static/js/787.efc4d965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68df9c36.css",
+    "static/js/main.7d66ad51.js"
+  ]
+}
